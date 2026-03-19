@@ -1,0 +1,23 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: orange;
+}
+
+header {
+    text-align: center;
+    color: white;
+}
+
+section {
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.315);
+}
+
+footer {
+    text-align: center;
+    font-style: italic;
+}

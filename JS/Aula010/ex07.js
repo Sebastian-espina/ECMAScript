@@ -1,7 +1,7 @@
 var diasem = new Date()
 var dia = diasem.getDay()
 
-var dia = 7
+var dia = 7 
 /* 
     0 = domingo
     1 = segunda
@@ -33,5 +33,8 @@ switch (dia) {
         console.log('sexta')
         break
     case 6: 
-        console.log('sabado')       
+        console.log('sabado')
+        break  
+    default:
+        console.log('ERROR')    
 }
