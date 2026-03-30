@@ -1,0 +1,24 @@
+body {
+    background-color: aquamarine;
+    font: normal 15pt monospace ;
+}
+
+header {
+    text-align: center;
+}
+
+section {
+    padding: 10px;
+    background-color: white;
+    width: 400px;
+    margin: auto;
+    border-radius: 12px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.418);
+
+}
+
+footer {
+    margin-top: 10px;
+    text-align: center;
+    font-style: italic;
+}
